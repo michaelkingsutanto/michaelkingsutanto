@@ -1,3 +1,5 @@
+## About Me
+
 Hi, I'm Michael. I'm an aspiring Data Scientist with a unique background as Senior Creature Technical Director at Lucasfilm Singapore.  
 Strong in technical skills, with experience in creating Python tools to improve production processes.  Effective at problem-solving and devising practical solutions.  
 
