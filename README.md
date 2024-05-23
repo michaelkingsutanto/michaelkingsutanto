@@ -29,5 +29,6 @@ Predict HDB prices using a linear regression model. This project is limited to u
 
 ## Contact
 - Email: michaelkingsutanto@gmail.com
-- [GitHub](https://github.com/michaelkingsutanto)
 - [LinkedIn](https://www.linkedin.com/in/michaelkingsutanto)
+- [GitHub](https://github.com/michaelkingsutanto)
+- [Portfolio](https://michaelkingsutanto.github.io/portfolio/))
