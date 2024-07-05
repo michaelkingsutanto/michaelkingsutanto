@@ -9,8 +9,9 @@ I specialize in predictive modeling, machine learning, and data visualization to
 
 ## Projects
 
-### Computer Vision: Singapore Traffic Object Detection
-Utilizing the computer vision model YOLOv8 to detect local vehicles, traffic signs, and traffic-related objects in Singapore. [Learn more](https://github.com/michaelkingsutanto/GA_capstone_singapore_traffic_object_detection)
+### Flask App, AWS, CI/CD: Customer Churn Prediction
+This project encompasses a wide range of skills and technologies, including SQL queries, data visualization, building classification machine learning models, creating a Flask app with Python, HTML, and CSS, utilizing Docker, and deploying the application on AWS.  
+Additionally, I set up an API to provide programmatic access to the model. I also built a CI/CD pipeline using GitHub Actions to automate the deployment process. [Learn more](https://github.com/michaelkingsutanto/cutomer_churn_flaskapp_aws_cicd)
 
 ### Classification and CNN: Obesity and Stroke
 Classify the level of obesity and the likelihood of having a stroke using a classification model. Additionally, analyze brain CT scan using a CNN (Convolutional Neural Network). [Learn more](https://github.com/michaelkingsutanto/GA_project4_classification_cnn_for_obesity_stroke)
