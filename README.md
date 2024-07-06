@@ -3,9 +3,8 @@
 Hi, I'm Michael. I'm an aspiring Data Scientist with a unique background as Senior Creature Technical Director at Lucasfilm Singapore.  
 Strong in technical skills, with experience in creating Python tools to improve production processes.  Effective at problem-solving and devising practical solutions.  
 
-I got my Data Science Immersive (full time) from General Assemble in May 2024 and got my Data Analytics Nanodegree (part time) from Heicoders Academy in April 2024.  
-
-I specialize in predictive modeling, machine learning, and data visualization to help organizations leverage their data for improved outcomes.  
+I hold a Data Analytics/ Artificial Intelligence Nanodegree from Heicoders Academy and a Data Science Immersive Certification from General Assembly, providing me with expertise in SQL, Tableau, and Python for machine learning.  
+I have experience working with various machine learning models using scikit-learn, TensorFlow, PyTorch, etc. My technical proficiency and educational background empower me to deliver predictive modeling and data visualization solutions that improve business outcomes.   
 
 ## Projects
 
@@ -36,3 +35,4 @@ Predict HDB prices using a linear regression model. This project is limited to u
 - [LinkedIn](https://www.linkedin.com/in/michaelkingsutanto)
 - [GitHub](https://github.com/michaelkingsutanto)
 - [Portfolio](https://michaelkingsutanto.github.io/portfolio/)
+- [Youtube](https://www.youtube.com/michaelkingsutanto87)
