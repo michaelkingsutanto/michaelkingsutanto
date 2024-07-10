@@ -1,10 +1,8 @@
 ## About Me
 
-Hi, I'm Michael. I'm an aspiring Data Scientist with a unique background as Senior Creature Technical Director at Lucasfilm Singapore.  
-Strong in technical skills, with experience in creating Python tools to improve production processes.  Effective at problem-solving and devising practical solutions.  
+I’m a Data Scientist with a robust background as Senior Creature Technical Director in Lucasfilm Singapore. My role involved developing and creating Python tools to streamline workflows for both Sydney and Singapore teams. One standout project was the 2016 film 'The Great Wall,' where I developed a Python tool to automatically populate and execute 16,000 ragdoll creature simulations. This significantly reduced manpower and machine resource usage. Other significant projects included the 2018 'Bumblebee' movie and the 2024 'Transformers One,' where I engineered Python tools and established a pipeline to enhance transformation processes for both the Singapore and Sydney teams.  
 
-I hold a Data Analytics/ Artificial Intelligence Nanodegree from Heicoders Academy and a Data Science Immersive Certification from General Assembly, providing me with expertise in SQL, Tableau, and Python for machine learning.  
-I have experience working with various machine learning models using scikit-learn, TensorFlow, PyTorch, etc. My technical proficiency and educational background empower me to deliver predictive modeling and data visualization solutions that improve business outcomes.   
+I have developed a variety of ML/DL applications, including regression, classification NLP and computer vision projects, using both TensorFlow and PyTorch. Additionally, I have built cloud-based web applications on AWS with a CI/CD pipeline and API endpoints supporting POST requests, demonstrating my ability to integrate AI technologies into scalable, real-world applications.
 
 ## Projects
 
