@@ -19,7 +19,7 @@ Utilizing the computer vision model YOLOv8 to detect local vehicles, traffic sig
 Classify the level of obesity and the likelihood of having a stroke using a classification model. Additionally, analyze brain CT scan using a CNN (Convolutional Neural Network). [Learn more](https://github.com/michaelkingsutanto/GA_project4_classification_cnn_for_obesity_stroke)
 
 ### Web Scraping & NLP: Omega Watch
-Leverage NLP (Natural Language Processing) to inform our marketing decisions with confidence and objectivity, especially on copy that goes to brand taglines and marketing slogans. [Learn more](https://github.com/michaelkingsutanto/GA_project3_nlp_omega_watch)
+Leverage NLP (Natural Language Processing) and Bayesian network to inform our marketing decisions with confidence and objectivity, especially on copy that goes to brand taglines and marketing slogans. [Learn more](https://github.com/michaelkingsutanto/GA_project3_nlp_omega_watch)
 
 ### Regression: HDB Price Predictor
 Predict HDB prices using a linear regression model. This project is limited to using only the linear regression model. [Learn more](https://github.com/michaelkingsutanto/GA_project2_hdb_price_predictor)
